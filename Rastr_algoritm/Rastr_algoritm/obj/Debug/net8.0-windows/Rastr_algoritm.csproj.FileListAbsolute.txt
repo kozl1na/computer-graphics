@@ -1,0 +1,16 @@
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\bin\Debug\net8.0-windows\Rastr_algoritm.exe
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\bin\Debug\net8.0-windows\Rastr_algoritm.deps.json
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\bin\Debug\net8.0-windows\Rastr_algoritm.runtimeconfig.json
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\bin\Debug\net8.0-windows\Rastr_algoritm.dll
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\bin\Debug\net8.0-windows\Rastr_algoritm.pdb
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.Form1.resources
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.dll
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\refint\Rastr_algoritm.dll
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.pdb
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\Rastr_algoritm.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Study\КОМПЬЮТЕРНАЯ ГРАФИКА\Rastr_algoritm\Rastr_algoritm\obj\Debug\net8.0-windows\ref\Rastr_algoritm.dll
