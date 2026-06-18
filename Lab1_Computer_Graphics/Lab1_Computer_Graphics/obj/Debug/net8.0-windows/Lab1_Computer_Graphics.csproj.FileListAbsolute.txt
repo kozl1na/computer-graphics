@@ -1,0 +1,17 @@
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\bin\Debug\net8.0-windows\Lab1_Computer_Graphics.exe
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\bin\Debug\net8.0-windows\Lab1_Computer_Graphics.deps.json
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\bin\Debug\net8.0-windows\Lab1_Computer_Graphics.runtimeconfig.json
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\bin\Debug\net8.0-windows\Lab1_Computer_Graphics.dll
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\bin\Debug\net8.0-windows\Lab1_Computer_Graphics.pdb
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.Form1.resources
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.AssemblyInfo.cs
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.dll
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\refint\Lab1_Computer_Graphics.dll
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.pdb
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.genruntimeconfig.cache
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\ref\Lab1_Computer_Graphics.dll
+C:\Users\Егор\source\repos\Lab1_Computer_Graphics\Lab1_Computer_Graphics\obj\Debug\net8.0-windows\Lab1_Computer_Graphics.Form2.resources

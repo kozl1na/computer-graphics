@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|d:\\study\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\lab1_computer_graphics\\lab1_computer_graphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\lab1_computer_graphics\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|d:\\study\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\lab1_computer_graphics\\lab1_computer_graphics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|d:\\study\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\lab1_computer_graphics\\lab1_computer_graphics\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\lab1_computer_graphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|d:\\study\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\lab1_computer_graphics\\lab1_computer_graphics\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|d:\\study\\\u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043D\u0430\u044F \u0433\u0440\u0430\u0444\u0438\u043A\u0430\\lab1_computer_graphics\\lab1_computer_graphics\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Ex1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Computer_Graphics.csproj|D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\lab1_computer_graphics\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Computer_Graphics.csproj|D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\lab1_computer_graphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A41B4E3B-7323-4BFB-B7B0-D9F99324950D}|Lab1_Computer_Graphics\\Lab1_Computer_Graphics.csproj|solutionrelative:lab1_computer_graphics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Form2.Designer.cs",
+              "ToolTip": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form2.Designer.cs",
+              "RelativeToolTip": "Lab1_Computer_Graphics\\Form2.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:36:49.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Form2.cs",
+              "ToolTip": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form2.cs [Design]",
+              "RelativeToolTip": "Lab1_Computer_Graphics\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:11:11.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Form1.cs",
+              "ToolTip": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab1_Computer_Graphics\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T02:11:02.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Form2.cs",
+              "ToolTip": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form2.cs",
+              "RelativeToolTip": "Lab1_Computer_Graphics\\Form2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:32:56.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form2.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:20:50.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Form1.cs",
+              "ToolTip": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form1.cs",
+              "RelativeToolTip": "Lab1_Computer_Graphics\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:00:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Form1.Designer.cs",
+              "ToolTip": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab1_Computer_Graphics\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:58:49.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:00:26.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1_Computer_Graphics\\Program.cs",
+              "ToolTip": "D:\\Study\\\u041A\u041E\u041C\u041F\u042C\u042E\u0422\u0415\u0420\u041D\u0410\u042F \u0413\u0420\u0410\u0424\u0418\u041A\u0410\\Lab1_Computer_Graphics\\Lab1_Computer_Graphics\\Program.cs",
+              "RelativeToolTip": "Lab1_Computer_Graphics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:59:12.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 350,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
